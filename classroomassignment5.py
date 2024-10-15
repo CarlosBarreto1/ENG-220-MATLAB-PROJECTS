@@ -7,8 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1TbNdgSqbl_41DdPWlUSLQ5We1VIKxc6H
 """
 
-! pip install streamlit
-
 # prompt: make a hello world statement and then make a box where the user can input a hello statement back
 
 import streamlit as st
